@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.container{
+    padding-left: 5%;
+}
+h6, p{
+    padding-top: 20px;
+    color: black;
+}
+.btn{
+    margin-top: 20px;
+}
